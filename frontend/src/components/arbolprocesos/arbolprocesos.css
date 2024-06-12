@@ -1,0 +1,45 @@
+.btn {
+
+    font-size: 1em;
+    cursor: pointer;
+    color: #fafafa;
+    background-color: rgb(97, 19, 58);
+    text-align: left;
+    width: fit-content;
+    padding: 10px 20px;
+    margin: 10px 10px 10px 0;
+
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background-color: rgb(122, 19, 71);
+}
+
+#btn-arbol {
+    background-color: rgb(36, 119, 144);
+    color: #fafafa;
+    width: fit-content;
+    padding: 10px 20px;
+    font-weight: bold;
+    margin: 10px 10px 10px 0;
+
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#btn-arbol:hover {
+    background-color: rgb(3, 137, 178);
+}
+
+select {
+    width: 100px;
+    padding: 10px;
+    margin: 10px 10px 10px 0;
+    border: 1px solid #000;
+    border-radius: 5px;
+}

@@ -1,0 +1,43 @@
+/* Cambiar el color de fondo del Navbar */
+.navbar {
+  background-color: #e4e4e4;
+  border-radius: 5px;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.navbar-nav {
+  flex-direction: row;
+  gap: 1rem;
+
+}
+
+/* Cambiar el color del texto en el Navbar */
+.navbar-nav .nav-link {
+  font-family: monospace;
+  font-size: 1.2rem;
+  color: #0e1f2f;
+
+  /* Puedes cambiar este color según tus preferencias */
+
+}
+
+/* Cambiar el color del texto en el Navbar cuando se está pasando el ratón sobre él */
+.navbar-nav .nav-link:hover {
+  color: #a13a2f;
+  /* Puedes cambiar este color según tus preferencias */
+}
+
+/* Cambiar el color del texto del Navbar.Brand */
+.navbar-brand {
+  font-family: monospace;
+  font-size: 1.2rem;
+  color: #0e1f2f;
+  /* Puedes cambiar este color según tus preferencias */
+}
+
+/* Cambiar el color del texto del Navbar.Brand cuando se está pasando el ratón sobre él */
+.navbar-brand:hover {
+  color: #a13a2f;
+  /* Puedes cambiar este color según tus preferencias */
+}

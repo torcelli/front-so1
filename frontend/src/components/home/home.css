@@ -1,0 +1,20 @@
+
+#home{
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 2% 20%;
+
+    background-color:#F9F6EE;
+    color: #202020;
+}
+
+  .title {
+    background-color:#202029;
+    color: #F9F6EE;
+    font-size: 25px;
+    font-weight: 800;
+    margin-bottom: 30px;
+  }
+  

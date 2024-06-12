@@ -1,0 +1,5 @@
+.container-body {
+  width: min(70rem, 100% - 2rem);
+  margin-inline: auto;
+
+}
